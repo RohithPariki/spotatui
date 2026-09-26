@@ -51,6 +51,7 @@
 - [Libraries used](#libraries-used)
 - [Development](#development)
   - [Windows Subsystem for Linux](#windows-subsystem-for-linux)
+- [Reporting a Bug](#reporting-a-bug)
 - [Help Wanted](#help-wanted)
 - [Maintainer](#maintainer)
 - [spotatui Contributors](#spotatui-contributors)
